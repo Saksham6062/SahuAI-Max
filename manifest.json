@@ -1,0 +1,18 @@
+{
+    "name": "SahuAI Pro - Professional AI Workspace",
+    "short_name": "SahuAI Pro",
+    "description": "Professional AI workspace with 57+ models, 18+ providers, MCP tools, agent swarm and live web search.",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#f5f6f8",
+    "theme_color": "#5b6cfa",
+    "icons": [
+        {
+            "src": "./icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
