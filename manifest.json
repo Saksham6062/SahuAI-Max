@@ -1,6 +1,6 @@
 {
-    "name": "SahuAI Pro - Professional AI Workspace",
-    "short_name": "SahuAI Pro",
+    "name": "SahuAI Max - Professional AI Workspace",
+    "short_name": "SahuAI Max",
     "description": "Professional AI workspace with 57+ models, 18+ providers, MCP tools, agent swarm and live web search.",
     "start_url": "./index.html",
     "scope": "./",
